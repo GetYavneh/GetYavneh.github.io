@@ -5,4 +5,4 @@ A small clone of [2048](http://gabrielecirulli.github.io/2048/) by Gabrielle Cir
 
 Inspired by [Get MIT!](https://mitchgu.github.io/GetMIT/) by Naveen Arun.
 
-Made just for fun; no hard feelings to other Schools! [Play it here!](http://getyavneh.com)
+Made just for fun; no hard feelings to other Schools! [Play it here!](PenguinOfCoding.github.io)
